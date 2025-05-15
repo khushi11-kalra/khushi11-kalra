@@ -16,8 +16,7 @@
 - Hackathons or team-based tech challenges
 
 ### 📫 How to reach me:
-- Email: khushi11.kalra@gmail.com  
-- LinkedIn: [linkedin.com/in/khushi11kalra](https://linkedin.com/in/khushi11kalra)  
+- Email: khushi11.kalra@gmail.com   
 - GitHub: [github.com/khushi11-kalra](https://github.com/khushi11-kalra)
 
 ### 😄 Pronouns: 
